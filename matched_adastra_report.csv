@@ -1,0 +1,216 @@
+unique_ID,Case No,Operator Who Received Case,Reported Condition,Receive Time (Badger),Forename,Surname,Sex,Dob,Age,Ethnicity,Address Line1,Address Line2,Address Line3,Postcode,Home Phone,Current Address Line1,Current Address Line2,Current Address Line3,Current Postcode,Return Phone No,Clinicians Name,Provider Group,PG Code,Call Origin,Caller Name,Caller Phone,Initial Case Type,Final Case Type,Reception Priority,Priority After Assessment,Latest Priority,Location Name,Comfort Call,Booked Date,PCC Arrival,Despatch Time,Doctor Arrived,Initial Case Rec Time,1st Cons Summary,1st Cons History,1st Cons Examination,1st Cons Diagnosis,1st Cons Treatment,1st Cons Began Time,1st Cons End Time,1st Cons Clinicians Name,1st Cons Prov Type,Last Cons Summary,Last Cons History,Last Cons Examination,Last Cons Diagnosis,Last Cons Treatment,Last Cons Begin Time,Last Cons End Time,Last Cons Clinicians Name,Last Cons Prov Type,Clinical Codes,Examination Details,Prescriptions,Followup With Comments,NHS Number,Externally Received,CGU Tag Summary,Case Tag Description,Case Tag,Outcome Mapping DX Code,2nd Consultation Start Date Time,2nd Consultation End Date Time,Clinician Name,Received From,Site,Ext Case ID,Ext Case Ref
+Gilbert Davies 31/12/1936 DOB 19/10/2023 Day ,11644,,,19/10/2023,Gilbert,Davies,M,31/12/1936,86 years,Not Recorded,4 Cornwall Road ,Rubery Rednal,Birmingham,B45 0NQ,,4 Cornwall Road ,Rednal,Birmingham,B45 0NQ,07754 982405,,Leach Heath Medical Centre (BSC*CCG),M85027,Other Source,Kel Onyeke - Bio Medical Scientist (Caller At Diff,0121 424 3106,,Advice,Routine,Manual Call Back,Routine,,,,,,,19/10/2023 02:14,"Comments: blood test results from the lab. - sodium = 142, urea = 23.3, creatinine = 460, egfr = 9, patients tel no: 07754982405
+
+spoke to the patient, says he is under the care of the hospital about his kidney and has appointment in 1 week. 
+telephone
+CKD stage 5
+advised to contact own GP in the morning about the result. ","Comments: blood test results from the lab. - sodium = 142, urea = 23.3, creatinine = 460, egfr = 9, patients tel no: 07754982405
+
+spoke to the patient, says he is under the care of the hospital about his kidney and has appointment in 1 week. ",telephone,CKD stage 5,advised to contact own GP in the morning about the result. ,19/10/2023 03:46,19/10/2023 03:55,"Areje, George (GP)",DOCTOR,,,,,,,,,,"419.. Laboratory test result abnormal
+",,,"Own GP To Follow Up Please - 
+",4888204403.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx78).",,,,DHU - Ashgate Manor (Derbyshire Health United),Y00869,6561225,1cbd46ba-e9b9-473e-ae55-6a2f8ebab3fc
+Fayaz Misbah 02/06/1992 DOB 17/10/2023 Day ,11116,,,17/10/2023,Fayaz,Misbah,F,02/06/1992,31 years,Not Recorded,187 Albert Road ,,Birmingham,B6 5NA,0117 951 1152,19 Gladstone Street Birmingham,West Midlands,,B6 7NY,0117 951 1152,,,,Other Source,,07856 064521,,T\Centre Nurse,Routine,,Routine,,,,,,,17/10/2023 19:44,,,,,,,,,,,,,,,,,,,,,,,6083794250.0,NHS 111,,,111,"Outcome mapping initiated (APINHS111, 2000108540, Dx06).",,,,NHS Digital Message Engine,YDDF4,111-ONLINE-0EC5A,e9bbc876-5681-4f1e-aef3-c71d040d1cd1
+Akhlaq Mohammed 25/02/1970 DOB 06/10/2023 Day ,95461,,,06/10/2023,Akhlaq,Mohammed,M,25/02/1970,53 years,Not Recorded,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,0121 773 5886,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,07828 423677,,Bordesley Green Surgery (BM XCTY),M85781,,,,,Advice,Routine,Manual Call Back,Routine,,07/10/2023 00:21,,,,,06/10/2023 15:08,"Spoke to pt 00.31, ID verified. 
+Contacted 111 c/o ear pain L ear.  
+Seen in UTC this week given olive oil drops adv imapcted cerumen. 
+Pt has been using drops but states not helping.  
+
+PMH: HTN
+DH: Not discussed 
+Allergies: NKDA
+Talking in complete sentences 
+
+Ear pain 
+Adv cont olive oil drops, lie down allow to soak for 10 minutes each time.  
+Taking paracetamol adv to take ibuprofen also, warm compress for pain. 
+Specsaver offer microsuction adv will be chanrged for this 
+If not resolving contact own GP
+Pt said 111 were ringing him back and then line went quiet 
+Case closed ","Spoke to pt 00.31, ID verified. 
+Contacted 111 c/o ear pain L ear.  
+Seen in UTC this week given olive oil drops adv imapcted cerumen. 
+Pt has been using drops but states not helping.  
+
+PMH: HTN
+DH: Not discussed 
+Allergies: NKDA","Talking in complete sentences 
+",Ear pain ,"Adv cont olive oil drops, lie down allow to soak for 10 minutes each time.  
+Taking paracetamol adv to take ibuprofen also, warm compress for pain. 
+Specsaver offer microsuction adv will be chanrged for this 
+If not resolving contact own GP
+Pt said 111 were ringing him back and then line went quiet 
+Case closed ",07/10/2023 00:30,07/10/2023 00:42,"Beardsmore , Rosslyn (ANP)",NURSE,,,,,,,,,,"1C... Ear symptoms
+",,,"Patient To Contact GP - 
+Advised to call back Badger/111 if necessary - 
+",6310487930.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx13).",,,,DHU - Birchfield House - Oldbury (Derbyshire Health United),Y00869,6421756,916609ea-2885-4b03-895b-9ec1aec3134a
+Akhlaq Mohammed 25/02/1970 DOB 06/10/2023 Day ,95461,,,06/10/2023,Akhlaq,Mohammed,M,25/02/1970,53 years,Not Recorded,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,0121 773 5886,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,07828 423677,,Bordesley Green Surgery (BM XCTY),M85781,,,,,Advice,Routine,Manual Call Back,Routine,,07/10/2023 00:21,,,,,06/10/2023 15:08,"Spoke to pt 00.31, ID verified. 
+Contacted 111 c/o ear pain L ear.  
+Seen in UTC this week given olive oil drops adv imapcted cerumen. 
+Pt has been using drops but states not helping.  
+
+PMH: HTN
+DH: Not discussed 
+Allergies: NKDA
+Talking in complete sentences 
+
+Ear pain 
+Adv cont olive oil drops, lie down allow to soak for 10 minutes each time.  
+Taking paracetamol adv to take ibuprofen also, warm compress for pain. 
+Specsaver offer microsuction adv will be chanrged for this 
+If not resolving contact own GP
+Pt said 111 were ringing him back and then line went quiet 
+Case closed ","Spoke to pt 00.31, ID verified. 
+Contacted 111 c/o ear pain L ear.  
+Seen in UTC this week given olive oil drops adv imapcted cerumen. 
+Pt has been using drops but states not helping.  
+
+PMH: HTN
+DH: Not discussed 
+Allergies: NKDA","Talking in complete sentences 
+",Ear pain ,"Adv cont olive oil drops, lie down allow to soak for 10 minutes each time.  
+Taking paracetamol adv to take ibuprofen also, warm compress for pain. 
+Specsaver offer microsuction adv will be chanrged for this 
+If not resolving contact own GP
+Pt said 111 were ringing him back and then line went quiet 
+Case closed ",07/10/2023 00:30,07/10/2023 00:42,"Beardsmore , Rosslyn (ANP)",NURSE,,,,,,,,,,"1C... Ear symptoms
+",,,"Patient To Contact GP - 
+Advised to call back Badger/111 if necessary - 
+",6310487930.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx13).",,,,DHU - Birchfield House - Oldbury (Derbyshire Health United),Y00869,6421756,916609ea-2885-4b03-895b-9ec1aec3134a
+Akhlaq Mohammed 25/02/1970 DOB 05/10/2023 Day ,95142,,,05/10/2023,Akhlaq,Mohammed,M,25/02/1970,53 years,Not Recorded,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,0121 773 5886,111 Third Avenue ,Bordesley Green,Birmingham,B9 5RN,07828 423677,,Bordesley Green Surgery (BM XCTY),M85781,,,,,Advice,Routine,Manual Call Back,Routine,,,,,,,05/10/2023 22:56,"Akhlaq Mohammed   25-Feb-1970 (53 years)
+
+c/o blocked ears
+has tried softening drops
+hasn't helped
+no ear discharge
+
+
+
+advised pt to contact own GP this morning
+
+***Would GP practice kindly review notes / enable a consultation please ***","Akhlaq Mohammed   25-Feb-1970 (53 years)
+
+c/o blocked ears
+has tried softening drops
+hasn't helped
+no ear discharge
+",,,"advised pt to contact own GP this morning
+
+***Would GP practice kindly review notes / enable a consultation please ***",06/10/2023 00:17,06/10/2023 00:30,"Hassan, Urfan (GP)",DOCTOR,,,,,,,,,,"1C... Ear symptoms
+",,,"Patient To Contact GP - 
+",6310487930.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx05).",,,,DHU - Birchfield House - Oldbury (Derbyshire Health United),Y00869,6416418,2dcfa54d-45c5-4b9b-ac1d-8a2d8d8b2d31
+Muhammad Hassan 13/08/2008 DOB 04/10/2023 Day ,94592,,,04/10/2023,Muhammad,Hassan,M,13/08/2008,15 years,Not Recorded,4 Weycroft Road ,Erdington,Birmingham,B23 5AD,07908 991818,4 Weycroft Road ,,Birmingham,B23 5AD,07504 681417,,The Dove Medical Practice (B XCITY),M85081,Other Source,Saima Younis - Mom (Caller At Same Address),07504 681417,,Advice,Routine,Manual Call Back,Routine,,,,,,,04/10/2023 19:08,"history from Angela Cook NP 
+Spoke to mother confirmed patients  DOB and address 
+asked me to speak to patient he is c/o 
+cough/sore throat runny nose for 3 days 
+fever off and on 
+taking paracetamol regularly 
+no vomiting 
+difficulty swallowing 
+SOB on exertion 
+cough productive 
+no history of asthma 
+not done COVID test 
+normally well 
+NKDA 
+WANTS TO BE SEEN 
+
+?? throat infection ?? chest infection 
+i have advised klikely viral induced symptosm self limiting 
+also advised to do COVID test 
+patient states he wants to be seen he thinks he as throat infection 
+happy to self refer to UTS 
+website address and help line number given ","history from Angela Cook NP 
+Spoke to mother confirmed patients  DOB and address 
+asked me to speak to patient he is c/o 
+cough/sore throat runny nose for 3 days 
+fever off and on 
+taking paracetamol regularly 
+no vomiting 
+difficulty swallowing 
+SOB on exertion 
+cough productive 
+no history of asthma 
+not done COVID test 
+normally well 
+NKDA 
+WANTS TO BE SEEN ",,?? throat infection ?? chest infection ,"i have advised klikely viral induced symptosm self limiting 
+also advised to do COVID test 
+patient states he wants to be seen he thinks he as throat infection 
+happy to self refer to UTS 
+website address and help line number given ",04/10/2023 20:29,04/10/2023 20:45,"Cook, Angela (NP)",NURSE,,,,,,,,,,"Hz... Respiratory System Diseases NOS
+",,,"Advised to attend UTC - 
+",6475373249.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx05).",,,,DHU - Orbis Building (Derbyshire Health United),Y00869,6405368,01c9c3a4-cd24-4198-aa98-adaf3512a804
+Muhammad Hassan 13/08/2008 DOB 04/10/2023 Day ,94687,BEGUMZAN,"Symptoms: Ref: 0410-609-6046; Site: ESGUTC; Name: Muhammad HASSAN (13/08/2008); Mobile: 07504681417; Hx: [cough/sore throat runny nose for 3 days fever off and on ]; Booked: 2023-10-04 21:35:26; Slot: 2023-10-04 21:50:00;
+Comments: These cases were received and finished within the last 72 hours:Advice #94592 at 04-Oct-23 19:08:30
+",04/10/2023,Muhammad,Hassan,M,13/08/2008,15 years,Not Recorded,4 Weycroft Road ,Erdington,Birmingham,B23 5AD,07908 991818,4 Weycroft Road ,,Birmingham,B23 5AD,07504 681417,,The Dove Medical Practice (B XCITY),M85081,Relative (Same Address),,,T\Centre Nurse,T\Centre Nurse,Routine,,Routine,Erdington-Stockland Green (UTC),04/10/2023 21:40,04/10/2023 21:50,04/10/2023 21:48,,,04/10/2023 21:36,,,,,,,,,,"info from hcsw
+pt w. mum
+c.o cough runny nose and sore throat for 3 days   coughing up  phlegm   no vomiting 
+eating and drinking   not asthmatic
+p.u and b.o okay
+pmh none
+allergies none
+meds paracetamol at 19:00 and cough syrup 
+
+M Corpuz: History as above confirmed by patient
+chest clear, good bae, nil added bs
+throat red and inflamed bilateral mild tonsillar swelling, nil exudate, MMM
+ears both nad
+nose congested
+Viral URTI
+advised re treatment as prescribed
+advised steam inhalation, fluids
+rtc inb
+review with GP if sx gets worst","info from hcsw
+pt w. mum
+c.o cough runny nose and sore throat for 3 days   coughing up  phlegm   no vomiting 
+eating and drinking   not asthmatic
+p.u and b.o okay
+pmh none
+allergies none
+meds paracetamol at 19:00 and cough syrup 
+
+M Corpuz: History as above confirmed by patient","chest clear, good bae, nil added bs
+throat red and inflamed bilateral mild tonsillar swelling, nil exudate, MMM
+ears both nad
+nose congested",Viral URTI,"advised re treatment as prescribed
+advised steam inhalation, fluids
+rtc inb
+review with GP if sx gets worst",04/10/2023 21:55,04/10/2023 22:08,"Corpuz, Martin (PCN)",NURSE,"Hz... Respiratory System Diseases NOS
+","ASSESSMENT
+  Pulse bpm 108
+  Temperature C 36.7
+
+LUNGS
+  Oxygen saturation % 100.0
+  Rate of respiration  25
+",,"Patient To Contact GP - 
+Advised to call back Badger/111 if necessary - 
+",6475373249.0,Locally Entered,,Arrived at Erdington-Stockland Green (UTC) / Clinician 04-Oct-23 21:50:00,,,,,,,,,
+Arushi Arushi 22/02/1998 DOB 30/12/2023 Day ,52381,,,30/12/2023,Arushi,Arushi,F,22/02/1998,25 years,Not Recorded,37 Charnwood Close Moxley,Bilston,West Midlands,WV14 8LZ,,37 Charnwood Close Moxley,Bilston,West Midlands,WV14 8LZ,07776 669045,,Darlaston Health Centre - Dr Vaid,M91660,,,,,T\Centre Nurse,Routine,,Routine,,,,,,,30/12/2023 12:05,,,,,,,,,,,,,,,,,,,,,,,7272921269.0,NHS 111,,,111,"Outcome mapping initiated (APINHS111, 1320322939, Dx05).",,,,Wakefield (Yorkshire Ambulance Service - 111),RX8,6408138,b7f82801-22b2-4826-9445-4da5d9833493
+Hassan Hassan 01/01/1941 DOB 29/12/2023 Day ,51706,,,29/12/2023,Hassan,Hassan,M,01/01/1941,82 years,Not Recorded,24 Fellmeadow Road ,,Birmingham,B33 8LB,0121 792 1504,24 Fellmeadow Road ,,Birmingham,B33 8LB,07395 301967,,St Clements Surgery (BM XCTY),M85053,Other Source,Daugheter - Shukhu Hassan (Caller At Same Address),07395 301967,,Advice,Routine,Manual Call Back,Routine,,29/12/2023 20:43,,,,,29/12/2023 17:32,"Repeated failed attempts at connection
+
+patient is with daughter
+
+message left asking to rign back if still requires some support.
+
+
+
+unwell patiient: failed to contact patient.
+
+message left and call completed
+no contact
+","Repeated failed attempts at connection
+
+patient is with daughter
+
+message left asking to rign back if still requires some support.
+
+",,"unwell patiient: failed to contact patient.
+
+message left and call completed","no contact
+",29/12/2023 21:17,29/12/2023 21:21,"Vijaya, Vipran (GP)",DOCTOR,,,,,,,,,,"ZV6.. [V]Other reasons for encounter
+",,,"Patient To Contact GP - 
+Advised to call back Badger/111 if necessary - 
+",7036666455.0,NHS 111,,,,"Outcome mapping initiated (APINHS111, 1320322939, Dx1113).",,,,DHU - Orbis Building (Derbyshire Health United),Y00869,7390104,cbcba993-af7c-4117-b395-6e58596a63bd
+Anjeena Anjeena 20/07/1996 DOB 06/12/2023 Day ,36912,,,06/12/2023,Anjeena,Anjeena,F,20/07/1996,27 years,Not Recorded,50 THOMSON GROVE HALESOWEN,,,B62 9JU,,50 THOMSON GROVE HALESOWEN,,,B62 9JU,07815 187973,,Clement Road Medical Centre (Primecare),M87034,Other Source,Maxwell Dass Husband (Caller At Same Address),07815 187973,,T\Centre Nurse,Routine,,Routine,,,,,,,06/12/2023 20:51,,,,,,,,,,,,,,,,,,,,,,,7322215753.0,NHS 111,,,111,"Outcome mapping initiated (APINHS111, 1320322939, Dx05).",,,,DHU - Orbis Building (Derbyshire Health United),Y00869,7102155,17fe70be-0ffc-4649-abfb-121bf9577e5a
+Nancy Nancy 05/12/1996 DOB 02/12/2023 Day ,34400,,,02/12/2023,Nancy,Nancy,F,05/12/1996,26 years,Not Recorded,80 DELVES GREEN ROAD WALSALL,,,WS5 4LP,,2A VICTORIA TERRACE,WALSALL,,WS4 2DA,07393 121228,,Little London Surgery,M91008,,,,,Advice,Routine,,Routine,,,,,,,02/12/2023 12:53,,,,,,,,,,,,,,,,,,,,,,,7318057839.0,NHS 111,,,111,"Outcome mapping initiated (APINHS111, 1320322939, Dx45).",,,,DHU - Birchfield House - Oldbury (Derbyshire Health United),Y00869,7051085,1d1677d9-94aa-41ed-9f3b-3ddaa0d66771
